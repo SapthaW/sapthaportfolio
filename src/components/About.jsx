@@ -58,7 +58,7 @@ const About = () => {
             {" "}
             Download CV
           </a> */}
-          <a className="btn-red target="_blank" " href="https://www.linkedin.com/in/saptha/" >
+          <a className="btn-red" href="https://www.linkedin.com/in/saptha/" target="_blank" >
             {" "}
             Linkedin
           </a>
